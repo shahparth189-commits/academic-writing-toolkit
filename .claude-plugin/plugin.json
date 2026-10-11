@@ -1,0 +1,9 @@
+{
+  "name": "academic-writing-toolkit",
+  "version": "1.0.0",
+  "description": "Claude Code agents for writing and checking academic papers: planning, literature synthesis, section drafting, reviewer responses, and checks for citations, writing quality, literature coverage, claims vs sources, and consistency.",
+  "author": {
+    "name": "Parth Shah"
+  },
+  "keywords": ["academic", "research", "paper", "citations", "literature-review", "writing"]
+}

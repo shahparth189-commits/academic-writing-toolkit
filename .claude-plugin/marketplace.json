@@ -1,0 +1,13 @@
+{
+  "name": "shahparth-tools",
+  "owner": {
+    "name": "Parth Shah"
+  },
+  "plugins": [
+    {
+      "name": "academic-writing-toolkit",
+      "source": "./",
+      "description": "Agents for writing and checking academic papers."
+    }
+  ]
+}
